@@ -127,11 +127,16 @@ optimizer.minimize(v)
 ---
 
 #### Built upon tensorflow for beter useablity
-  
+
 
 ---
 
+# using this project in production
 
+---
 
+### Many things could go wrong
 
+---
 
++ ## Using docker
